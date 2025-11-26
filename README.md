@@ -49,7 +49,7 @@ Cobalts = {
 </div>
 
 
-![snake svg](https://github.com/nipun221/cobalts-theon/blob/output/github-contribution-grid-snake-dark.svg)
+![snake svg](https://github.com/cobalts-theon/cobalts-theon/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ### 🌐 Connect With Me
