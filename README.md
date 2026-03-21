@@ -33,7 +33,7 @@ Cobalts = {
 </p>
 
 ## ⚡Tech stack
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,react,js,html,css,mysql,py,php,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,react,js,html,css,mysql,py,php,nodejs,express,kotlin,vite,vscode,arduino,idea,postman)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/Code-JavaScript-7aa2f7?style=for-the-badge&logo=javascript&logoColor=f7768e"></a>
